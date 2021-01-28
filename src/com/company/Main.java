@@ -12,9 +12,9 @@ public class Main {
 
 
         SUN troyo = new SUN();
-        troyo.Heat="5678kj";
-        troyo.temperature="3478k";
-        troyo.Radius="99899km";
+        troyo.Heat="56748kj";
+        troyo.temperature="347878k";
+        troyo.Radius="99899898km";
 
     }
 }
