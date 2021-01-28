@@ -15,6 +15,6 @@ public class Main {
         troyo.Heat="56748kj";
         troyo.temperature="347878k";
         troyo.Radius="99899898km";
-        
+
     }
 }
