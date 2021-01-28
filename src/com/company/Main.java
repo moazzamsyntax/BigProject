@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //Jack
 
         SolarSystem FactorX =new SolarSystem();
         FactorX.Sun=1;
@@ -15,6 +16,8 @@ public class Main {
         troyo.Heat="56748kj";
         troyo.temperature="347878k";
         troyo.Radius="99899898km";
+        
+        
 
     }
 }
