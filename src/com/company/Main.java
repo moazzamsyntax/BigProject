@@ -4,6 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+        
+        System.out.println("Elias Alvial");
 
         SolarSystem FactorX =new SolarSystem();
         FactorX.Sun=1;
