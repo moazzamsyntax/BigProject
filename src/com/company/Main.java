@@ -4,7 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-
+        // Burju Kaia
+        
         SolarSystem FactorX =new SolarSystem();
         FactorX.Sun=1;
         FactorX.Moon=2;
