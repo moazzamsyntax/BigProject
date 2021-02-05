@@ -3,7 +3,10 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        //Jack
+
+
+        // Burju Kaia
+        
 
         SolarSystem FactorX =new SolarSystem();
         FactorX.Sun=1;
